@@ -1,0 +1,12 @@
+D:\Data All About Praktek\Visual Studio 2012\Angelist Robot Controller\Angelist Robot Controller\bin\Debug\Angelist Robot Controller.exe.config
+D:\Data All About Praktek\Visual Studio 2012\Angelist Robot Controller\Angelist Robot Controller\obj\Debug\Angelist_Robot_Controller.Resources.resources
+D:\Data All About Praktek\Visual Studio 2012\Angelist Robot Controller\Angelist Robot Controller\obj\Debug\Angelist Robot Controller.vbproj.GenerateResource.Cache
+D:\Data All About Praktek\Visual Studio 2012\Angelist Robot Controller\Angelist Robot Controller\bin\Debug\Angelist Robot Controller.exe
+D:\Data All About Praktek\Visual Studio 2012\Angelist Robot Controller\Angelist Robot Controller\bin\Debug\Angelist Robot Controller.pdb
+D:\Data All About Praktek\Visual Studio 2012\Angelist Robot Controller\Angelist Robot Controller\bin\Debug\Angelist Robot Controller.xml
+D:\Data All About Praktek\Visual Studio 2012\Angelist Robot Controller\Angelist Robot Controller\obj\Debug\Angelist Robot Controller.exe
+D:\Data All About Praktek\Visual Studio 2012\Angelist Robot Controller\Angelist Robot Controller\obj\Debug\Angelist Robot Controller.xml
+D:\Data All About Praktek\Visual Studio 2012\Angelist Robot Controller\Angelist Robot Controller\obj\Debug\Angelist Robot Controller.pdb
+D:\Data All About Praktek\Visual Studio 2012\Angelist Robot Controller\Angelist Robot Controller\obj\Debug\Angelist_Robot_Controller.Form_Kendali_Robot.resources
+D:\Data All About Praktek\Visual Studio 2012\Angelist Robot Controller\Angelist Robot Controller\obj\Debug\Angelist_Robot_Controller.MDI_AplikasiUtama.resources
+D:\Data All About Praktek\Visual Studio 2012\Angelist Robot Controller\Angelist Robot Controller\obj\Debug\Angelist Robot Controller.vbprojResolveAssemblyReference.cache
