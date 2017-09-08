@@ -8,27 +8,27 @@ Public Class Form_Kendali_Robot
     Protected Overrides Function ProcessCmdKey(ByRef msg As Message, ByVal keyData As Keys) As Boolean
         If keyData = Keys.Up Then
             Me.lblInstruction.Text = "Maju"
-            serialPort.Write("1")
+            serialPort.Write(1)
             Return True
         End If
         If keyData = Keys.Down Then
             Me.lblInstruction.Text = "Mundur"
-            serialPort.Write("3")
+            serialPort.Write(3)
             Return True
         End If
         If keyData = Keys.Left Then
             Me.lblInstruction.Text = "Kiri"
-            serialPort.Write("4")
+            serialPort.Write(4)
             Return True
         End If
         If keyData = Keys.Right Then
             Me.lblInstruction.Text = "Kanan"
-            serialPort.Write("2")
+            serialPort.Write(2)
             Return True
         End If
         If keyData = Keys.Space Then
             Me.lblInstruction.Text = "Stop"
-            serialPort.Write("5")
+            serialPort.Write(5)
             Return True
         End If
         Return MyBase.ProcessCmdKey(msg, keyData)
@@ -68,7 +68,6 @@ Public Class Form_Kendali_Robot
     Private Sub btnConnect_Click(sender As Object, e As EventArgs) Handles btnConnect.Click
         If (btnConnect.Text.ToString = "Connect") Then
             Buka_COM()
-
         Else
             inisialisasi()
         End If
